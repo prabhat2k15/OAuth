@@ -12,6 +12,7 @@ Include it in your php file where where you authenticate/register user.
 Use 'loginWithUsernameAndPassword($username, $password)' and 'registerWithUsernameAndPassword($username, $password)' function to to authenticate or register user on cloud.
 You will get the response as the json object.
 Decode the json object and Do the needful action according to the response.
+
 Note: Registeration is done with username and password only.
 
 I have also uploaded a sample app to understand the integration process in a better way.
